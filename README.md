@@ -14,7 +14,7 @@ An influencer advertisement platform with SCSS and Javascript
 - using @mixin to generate number of steps
 - using @extend to inherit box-shadow and input-style
 
-### Javascript: 
+### Javascript 
 - Render influencer data to cart list panel
 - Listen click event on cards to activate selected card
 - Listen click event on buttons to control 1)state of prev button(disabled/active) and content of next button(next/ submit), 2)three state in steps(active/inactive/checked) and 3)corresponding part of form in each step to show
