@@ -19,7 +19,7 @@ An influencer advertisement platform with SCSS and Javascript
 - Listen click event on cards to activate selected card
 - Listen click event on buttons to control 1)state of prev button(disabled/active) and content of next button(next/ submit), 2)three state in steps(active/inactive/checked) and 3)corresponding part of form in each step to show
 
-#### How to use
+### How to use
 - Select one influencer in card list panel first, and then, follow three steps to enable advertisement service
 - First step is to agree on terms of contract
 - Second step is to set details for advertisement( like time, target audience)
