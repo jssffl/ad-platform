@@ -6,9 +6,9 @@ An influencer advertisement platform with SCSS and Javascript
 ## Description
 - The Web is mainly builded by SCSS and compile scss into css by sass-loader in webpack  
 
-### SCSS
-- Reset css
-- Based on flexbox
+### Sass/SCSS
+- SCSS syntex
+- Layout is based on flexbox
 - using $variables to define color 
 - using @each to generate padding and margin utilities 
 - using @mixin to generate number of steps
